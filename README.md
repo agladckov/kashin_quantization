@@ -1,2 +1,4 @@
-# kashin_quantization
-This is a small academic project devoted to implementation of Kashin quantization algorithm for 
+# Kashin quantization
+This is a small academic project devoted to implementation of Kashin quantization algorithm for large language model.
+
+
